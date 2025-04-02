@@ -8,7 +8,7 @@ The software implementation requires use of the [MIRACL core](https://github.com
 
 Following steps are necessary before running the PC-MM software tests:
 1. Clone the MIRACL core repository: https://github.com/miracl/core.git
-2. Setup the MIRACL core with the NIST P256 curve, install the library and do the basic tests as described in the [MIRACL documentation](https://github.com/miracl/core/blob/master/c/readme.md)
+2. Setup the MIRACL core with the NIST P256 curve, install the library and run the default tests as described in the [MIRACL documentation](https://github.com/miracl/core/blob/master/c/readme.md)
 3. Copy the tests from this repository to the ```MIRACL/core/c``` directory
 
 For the paper, the following tests were performed on Raspberry Pi 5 edge computing platform:
