@@ -2,7 +2,7 @@
 
 This repository provides reference code for the software implementation presented in the following paper: K. S. T. Ramapragada and U. Banerjee, “Fast Plaintext-Ciphertext Matrix Multiplication from Additively Homomorphic Encryption,” IACR Communications in Cryptology, vol. 2, no. 1, pp. 1-33, April 2025.
 
-### Prerequisties
+### Prerequisites
 
 The software implementation requires use of the [MIRACL core](https://github.com/miracl/core/tree/master/c) C library.
 
